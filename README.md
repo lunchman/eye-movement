@@ -6,7 +6,7 @@
   <!-- <a href="https://eyemovement_solution.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Eye Movement_solution</h1>
+<h1 align="center">Eye Movement</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/eye-movement_solution?color=56BEB8">
